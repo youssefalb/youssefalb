@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 👨‍💻 About Me :
+
 I am a 5th semester Computer Science student based in Poland :
 - 🔭  I’m interested in Software Engineering, Agile Methodologies (Scrum, Kanban) and Database Development.
 - 🌱 My current university major language is C++
