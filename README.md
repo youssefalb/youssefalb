@@ -10,5 +10,3 @@ I am a 5th semester Computer Science student based in Poland :
 - 📫How to reach me: vity5.diduk@gmail.com
 
 
-🛠️ Languages and Tools :
-C++  androidstudio  Java  Java  Firebase  MySQL 
