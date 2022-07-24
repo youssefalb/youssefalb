@@ -46,4 +46,4 @@ I am a 5th semester Computer Science student based in Poland 🎓
 ###  :collision: C++ Projects :
 
 - 💪 Gym management system Service using QT: [REPO](https://github.com/youssefalb/Gym-management-app) | [README](https://github.com/youssefalb/Gym-management-app/blob/main/README.pdf)
-- 🔥 Custom ***Singly linked list*** implementation: [REPO](https://github.com) | [README](https://github.com)
+- 🔥 Custom ***Singly linked list*** implementation: [REPO](https://github.com/youssefalb/Custom-Singly-linked-list) | [README](https://github.com/youssefalb/Custom-Singly-linked-list/blob/main/README.pdf)
