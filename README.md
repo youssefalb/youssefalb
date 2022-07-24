@@ -47,3 +47,4 @@ I am a 5th semester Computer Science student based in Poland 🎓
 
 - 💪 Gym management system Service using QT: [REPO](https://github.com/youssefalb/Gym-management-app) | [README](https://github.com/youssefalb/Gym-management-app/blob/main/README.pdf)
 - 🔥 Custom ***Singly linked list*** implementation: [REPO](https://github.com/youssefalb/Custom-Singly-linked-list) | [README](https://github.com/youssefalb/Custom-Singly-linked-list/blob/main/README.pdf)
+- 🧬 Darwin program for simulating the evolution of individuals in a population [REPO](https://github.com/youssefalb/Darwin) | [README](https://github.com/youssefalb/Darwin/tree/main/README)
