@@ -1,5 +1,4 @@
 ` <div id="header" align="center" padding="500">
-  <img src="circular_profil_pic.png" width="170"/>
   
 <h1>
   Hi, I'm Youssef
