@@ -8,10 +8,9 @@
 
 
 ### 👨‍💻 About Me :
-I am a senior Computer Science student based in Poland 🎓
-- 🔭 I’m interested in Software Engineering, Agile Methodologies (Scrum, Kanban) and Database Development.
+I am a Cloud Engineer based in Poland 🎓
 
-- 🌱 My current university major language is C++
+- 🔭 Experienced in Software Engineering, Agile Methodologies (Scrum, Kanban) and Database Development.
 
 - 🐍 I am currenly working on my Python skills, mainly in Django, DRF, scraping
 
